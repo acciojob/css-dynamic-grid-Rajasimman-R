@@ -3,8 +3,6 @@
 	display:grid;
 	gap:10px 10px;
 grid-auto-flow:column; 
-	display: flex;
-	flex-wrap:wrap;
 	}
 .grid-item{
 	display:flex;
